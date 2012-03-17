@@ -1,0 +1,3 @@
+== Welcome to Rails
+
+This is Scott Weston's Golf League application.
